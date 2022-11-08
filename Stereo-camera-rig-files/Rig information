@@ -1,0 +1,7 @@
+# Stereo camera rig files
+
+This folder contains the files needed to build the metal rig which holds the cameras. The folder contains:
+
+1) PDFs showing the rig design and individual pieces (highlights measurements and drilling locations) 
+2) A PDF for the aluminium plate. Two 3D printed holders are fixed to this plate and the camera is attached using jubilee clips. Each rig requires two plates.
+3) A STL design file for 3D printing the tube holders. 
